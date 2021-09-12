@@ -1,0 +1,51 @@
+{
+  "id": "2805218",
+  "name": "计算器",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12499961",
+      "name": "cos",
+      "font_class": "cos1",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "12499963",
+      "name": "tan",
+      "font_class": "tan1",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "12499964",
+      "name": "sin",
+      "font_class": "sin1",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "11672672",
+      "name": "cos",
+      "font_class": "cos",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "11672673",
+      "name": "tan",
+      "font_class": "tan",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "11672674",
+      "name": "sin",
+      "font_class": "sin",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    }
+  ]
+}

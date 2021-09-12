@@ -1,0 +1,16 @@
+$baseUrl:"~@/assets/font/";
+@font-face {
+    font-family: "iconfont";
+    src: url($baseUrl+"iconfont.woff2?t=1631294672153")
+            format("woff2"),
+        url($baseUrl+"iconfont.woff?t=1631294672153")
+            format("woff"),
+        url($baseUrl+"iconfont.ttf?t=1631294672153")
+            format("truetype");
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
