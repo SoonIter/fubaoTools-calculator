@@ -2,7 +2,7 @@
 
 ## 计算器
 
-这是一个为完成课堂作业而生的项目，使用了electron + vue3 + vueRouter + vueX + vue-cli + sass
+这是一个为完成课堂作业而生的项目，使用了electron + vue + sass
 
 ### v1.0 使用说明
 
