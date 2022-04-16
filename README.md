@@ -1,7 +1,7 @@
 # 福报工具箱fubaotools
 
 ## 计算器
-
+<img src="./image.png" >
 这是一个为完成课堂作业而生的项目，使用了electron + vue + sass
 
 ### v1.0 使用说明
