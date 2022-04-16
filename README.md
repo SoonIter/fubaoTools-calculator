@@ -22,17 +22,7 @@
 4. 终端模式 terminal：使用 mathjs 进行函数、变量、基本运算，十分强大，支持变量、函数定义、矩阵运算。并存储历史数据在本地缓存中，可通过按钮删除本地存储。
 5. 金融模式 finance：使用 vue 的 computed，和 moneyjs 汇率转换，默认货币为 人民币
 
-### 技术亮点
-
-1.采用 git+github 进行代码托管和版本控制
-
-2.electron 桌面端多平台打包
-
-3.模块化管理，包管理工具为 npm+yarn，对使用次数较多函数进行模块封装，提高复用度
-
-### UI 设计和用户体验：
-
-采用拟态玻璃的设计风格，透明的背景可以让用户获取更多信息，pinOnTop 功能更加方便用户使用
+electron 桌面端多平台打包
 
 ## 项目启动
 
@@ -43,28 +33,4 @@ npm run electron:serve
 
 # fubaotools——calculator
 
-This is a project of my homework ——a calculator application. It is built with electron + vue3 + vueRouter + vueX.
-
-## Project setup
-
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
+This is a project of my homework ——a calculator application. It is built with electron + vue3 + Sass.
